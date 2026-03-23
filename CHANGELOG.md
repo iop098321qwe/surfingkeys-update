@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.2](https://github.com/iop098321qwe/surfingkeys-update/compare/v0.0.1...v0.0.2) (2026-03-23)
+
+
+### Bug Fixes
+
+* **function:** bypass cp prompt after gum confirm ([3942fb6](https://github.com/iop098321qwe/surfingkeys-update/commit/3942fb6bb2d01cb4d6aa3d4a558231a5126ab1c6))
+
 ## 0.0.1 (2026-03-16)
 
 
