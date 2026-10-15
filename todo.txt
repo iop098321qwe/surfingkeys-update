@@ -1,0 +1,1 @@
+(A) 2026-10-15 make keybind to rename the current tabs tab group @feat
